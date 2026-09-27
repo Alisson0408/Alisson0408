@@ -1,158 +1,89 @@
 # 👋 Olá! Eu sou Alisson Antônio da Silva
 
-### 💻 Profissional de TI | Service Desk | Suporte Técnico | Cloud | Desenvolvimento Web | IA Generativa
+### 💻 Desenvolvedor Júnior | IA • Automação • Desenvolvimento Web
 
 📍 Uberlândia - MG, Brasil  
+🎓 Tecnologia em Computação em Nuvem — Cursando  
 ♿ Profissional PCD  
-🎓 Tecnologia em Computação em Nuvem — Cursando
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
-Profissional de Tecnologia da Informação com experiência em **Service Desk, suporte técnico e atendimento a usuários em ambientes corporativos**.
+Profissional de Tecnologia da Informação em evolução para **Desenvolvimento de Software, Inteligência Artificial e Automação**, combinando experiência prática em ambientes corporativos de TI com desenvolvimento de soluções digitais.
 
-Tenho experiência com resolução de incidentes e solicitações, diagnóstico de hardware e software, sistemas corporativos, conectividade, VPN, antivírus, Windows e suporte remoto.
+Atualmente desenvolvo projetos web completos, trabalhando desde a estruturação e interface até versionamento, publicação e hospedagem.
 
-Atualmente amplio minha atuação por meio de projetos práticos envolvendo **Computação em Nuvem, Desenvolvimento Web, Git/GitHub e Inteligência Artificial Generativa**.
+Tenho utilizado **Inteligência Artificial aplicada ao desenvolvimento** como parte do fluxo de trabalho, utilizando ferramentas como ChatGPT e Codex para prototipação, desenvolvimento, debugging, refatoração e resolução de problemas.
 
-Também desenvolvo projetos web completos, desde a estruturação da interface até versionamento, publicação e hospedagem.
+Minha experiência anterior com suporte e ambientes corporativos também contribuiu para desenvolver habilidades de análise de problemas, diagnóstico técnico e atendimento de demandas reais de tecnologia.
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 🧠 Tecnologias
 
-### 💻 Suporte e Infraestrutura
-
-- Service Desk
-- Suporte técnico ao usuário
-- Windows
-- Hardware e Software
-- Suporte remoto
-- Redes e conectividade
-- VPN
-- Antivírus
-- Gestão de incidentes e solicitações
-
-### 🌐 Desenvolvimento Web
+**Stack atual**
 
 - HTML5
 - CSS3
 - JavaScript
-- Visual Studio Code
-- Sites responsivos
-- Interfaces web
-- Integração com WhatsApp e redes sociais
-
-### ☁️ Cloud e publicação
-
-- Fundamentos de Computação em Nuvem
 - Git
 - GitHub
+
+**Inteligência Artificial aplicada**
+
+- ChatGPT
+- Codex
+- Desenvolvimento assistido por IA
+- Prompt Engineering aplicado ao desenvolvimento
+
+**Deploy e infraestrutura**
+
 - Hostinger
-- Deploy e publicação de aplicações web
-- Gerenciamento de domínios e hospedagem
+- Netlify
+- GitHub Pages
 
-### 🗄️ Dados
+**Em desenvolvimento**
 
+- Python
+- APIs REST
 - SQL
-- Conhecimentos em desenvolvimento em Power BI
-
-### 🤖 Inteligência Artificial
-
-Uso prático de IA Generativa aplicada a:
-
-- Produtividade
-- Estruturação de prompts
-- Geração e análise de código
-- Identificação e correção de problemas
-- Documentação técnica
-- Desenvolvimento de soluções digitais
+- PostgreSQL / Supabase
+- Automação com n8n
+- Integração de aplicações com APIs de IA
 
 ---
 
-## 🚀 Projetos em destaque
+## 🛠️ Ferramentas
 
-### 🏢 AAS Tecnologia
-
-Site institucional desenvolvido com **HTML, CSS e JavaScript**, com foco em apresentação de serviços tecnológicos, desenvolvimento web e soluções digitais.
-
-### 🧠 Christian Gois — Psicanálise
-
-Projeto de site profissional para apresentação de serviços, trajetória profissional e canais de atendimento.
-
-### 🐾 Agrofort
-
-Site comercial para empresa do segmento de **agropecuária e Pet Shop**, com apresentação de produtos, serviços e canais de contato.
-
-### 🦷 Clínica São Domingos
-
-Projeto web para clínica odontológica, estruturando profissionais, procedimentos, serviços e canais de atendimento.
-
-### ⚖️ Advocacia Premium
-
-Projeto demonstrativo de site profissional para o segmento jurídico, com foco em apresentação institucional e experiência do usuário.
-
-### 🦷 Odontologia Premium
-
-Projeto demonstrativo de site para clínica odontológica com proposta visual premium, responsividade e estrutura comercial.
+- Visual Studio Code
+- Git / GitHub
+- Hostinger
+- Netlify
+- GitHub Pages
+- Ferramentas de desenvolvimento assistido por IA
 
 ---
 
-## 💼 Experiência profissional em TI
+## 📂 Projetos
 
-Minha trajetória profissional inclui atuação em ambientes de tecnologia e atendimento corporativo, com experiências em empresas como:
+Aqui você encontrará projetos desenvolvidos para aplicação prática de **desenvolvimento web, tecnologia e Inteligência Artificial**.
 
-### UNIMED Uberlândia
-**Service Desk / Suporte de TI**
+Os projetos incluem desenvolvimento de interfaces, responsividade, versionamento com Git/GitHub, deploy e utilização de IA durante o processo de desenvolvimento.
 
-### VCEDU Serviços Tecnológicos
-**Suporte Técnico**
-
-### Sankhya
-**Consultor de Atendimento**
-
-Essas experiências contribuíram para o desenvolvimento das minhas competências em **atendimento ao usuário, investigação de problemas, suporte técnico, sistemas corporativos e resolução de incidentes**.
+🔜 **Próximo projeto:** aplicação completa utilizando **Python + API REST + PostgreSQL/Supabase + IA + n8n**.
 
 ---
 
-## 🎓 Formação
+## 🎯 Objetivo profissional
 
-**Tecnologia em Computação em Nuvem — Cursando**
+Busco oportunidades como **Desenvolvedor Júnior**, especialmente em projetos envolvendo:
 
-Formação direcionada ao desenvolvimento de conhecimentos relacionados a infraestrutura de TI, virtualização, serviços em nuvem e tecnologias utilizadas em ambientes computacionais modernos.
+- Inteligência Artificial aplicada
+- Automação
+- Desenvolvimento Web
+- Integração de APIs
+- Aplicações inteligentes
+- Cloud Computing
 
----
-
-## 🎯 Atualmente
-
-Continuo desenvolvendo conhecimentos e projetos nas áreas de:
-
-`Cloud Computing` • `Desenvolvimento Web` • `Git/GitHub` • `SQL` • `Power BI` • `IA Generativa`
-
-Tenho interesse em oportunidades relacionadas a **Service Desk, Suporte de TI, Operações, Infraestrutura, Cloud, Sistemas e Desenvolvimento Web**.
-
----
-
-## 🤝 Competências
-
-- Comunicação
-- Atendimento ao usuário
-- Resolução de problemas
-- Raciocínio lógico
-- Trabalho em equipe
-- Organização
-- Adaptabilidade
-- Aprendizado contínuo
-
----
-
-## 📫 Contato
-
-📧 **E-mail:** aasilva84@outlook.com  
-📱 **Telefone / WhatsApp:** (34) 98858-6329  
-📍 **Uberlândia - MG, Brasil**
-
----
-
-### 🚀 Tecnologia, aprendizado contínuo e soluções que geram resultados.
+Meu objetivo é unir **desenvolvimento de software + IA + automação** para construir soluções aplicáveis a problemas reais.
