@@ -3,7 +3,7 @@
 ### 💻 Desenvolvedor Júnior | IA • Automação • Desenvolvimento Web
 
 📍 Uberlândia - MG, Brasil  
-🎓 Tecnologia em Computação em Nuvem — Cursando  
+🎓 Tecnologia em Computação em Nuvem    
 ♿ Profissional PCD  
 
 ---
